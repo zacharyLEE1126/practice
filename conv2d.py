@@ -2,7 +2,7 @@ import numpy as np
 
 # in_channel = 3 : kernel 3 channel
 # out_channel = 128 : 128 kernel
-input_data = np.random.random((800, 600, 3))  # in_channel = 3
+input_data = np.random.random((80, 60, 3))  # in_channel = 3 zzl
 
 
 # kernel_width = 3
