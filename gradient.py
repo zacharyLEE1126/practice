@@ -47,7 +47,7 @@ def gradient_descent(x_input, y_input, num_iteration, alpha, threshold):  # alph
         count += 1
 
     return w, b
-#zzl
+
 
 num = 10000  # num of samples
 examples_out = get_examples(num)
